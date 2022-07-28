@@ -1,0 +1,14 @@
+C:\Users\Darragh\Desktop\Projects\StrafeOptimizer\StrafeOptimizer\bin\Release\StrafeOptimizer.exe.config
+C:\Users\Darragh\Desktop\Projects\StrafeOptimizer\StrafeOptimizer\bin\Release\StrafeOptimizer.exe
+C:\Users\Darragh\Desktop\Projects\StrafeOptimizer\StrafeOptimizer\bin\Release\StrafeOptimizer.pdb
+C:\Users\Darragh\Desktop\Projects\StrafeOptimizer\StrafeOptimizer\bin\Release\FMUtils.KeyboardHook.dll
+C:\Users\Darragh\Desktop\Projects\StrafeOptimizer\StrafeOptimizer\bin\Release\SimWinMouse.dll
+C:\Users\Darragh\Desktop\Projects\StrafeOptimizer\StrafeOptimizer\obj\Release\StrafeOptimizer.csproj.AssemblyReference.cache
+C:\Users\Darragh\Desktop\Projects\StrafeOptimizer\StrafeOptimizer\obj\Release\StrafeOptimizer.csproj.SuggestedBindingRedirects.cache
+C:\Users\Darragh\Desktop\Projects\StrafeOptimizer\StrafeOptimizer\obj\Release\StrafeOptimizer.Window.resources
+C:\Users\Darragh\Desktop\Projects\StrafeOptimizer\StrafeOptimizer\obj\Release\StrafeOptimizer.Properties.Resources.resources
+C:\Users\Darragh\Desktop\Projects\StrafeOptimizer\StrafeOptimizer\obj\Release\StrafeOptimizer.csproj.GenerateResource.cache
+C:\Users\Darragh\Desktop\Projects\StrafeOptimizer\StrafeOptimizer\obj\Release\StrafeOptimizer.csproj.CoreCompileInputs.cache
+C:\Users\Darragh\Desktop\Projects\StrafeOptimizer\StrafeOptimizer\obj\Release\StrafeOptimizer.csproj.CopyComplete
+C:\Users\Darragh\Desktop\Projects\StrafeOptimizer\StrafeOptimizer\obj\Release\StrafeOptimizer.exe
+C:\Users\Darragh\Desktop\Projects\StrafeOptimizer\StrafeOptimizer\obj\Release\StrafeOptimizer.pdb
