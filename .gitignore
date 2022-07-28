@@ -137,3 +137,6 @@ _NCrunch*
 
 # Packages
 packages/
+
+# Bin
+**/bin/
